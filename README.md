@@ -16,6 +16,5 @@ to patient’s needs.
 
 ## Authors
 
-- [Gaurav Yadav](https://www.github.com/theydvgaurav)
-- [Deepak Kumar](https://www.github.com/deepakkumar15)
-- [Vivek Kumar](https://github.com/vivek1607)
+- [Rahul Saini](https://www.github.com/RAHULSAINI11)
+
